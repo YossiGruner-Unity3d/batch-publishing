@@ -1,0 +1,64 @@
+{
+    "versionName": "1.0.0",
+    "price": 4.99,
+    "category": "Audio/Ambient",
+    "metadatas": {
+        "en_US": {
+            "name": "OpenAPI Example",
+            "releaseNotes": "Test, don't release.",
+            "summary": "This is summary.",
+            "technicalDetails": "This is technical details.",
+            "description": "This is description.",
+            "compatibilityInfo": "No compatibility issue."
+        },
+        "zh_CN": {
+            "name": "OpenAPI示例",
+            "releaseNotes": "测试，请勿发布。",
+            "summary": "这是综述，至少10字符。",
+            "technicalDetails": "这是技术细节。",
+            "description": "这是描述。",
+            "compatibilityInfo": "无兼容性问题。"
+        }
+    },
+    "tags": [
+        "Test",
+        "OpenAPI",
+        "Example"
+    ],
+    "artworks": [
+        {
+            "type": "youtube",
+            "source": "https://www.youtube.com/watch?v=efGqe1j3RNk"
+        },
+        {
+            "type": "screenshot",
+            "source": "files/unity-screenshot.png"
+        }
+    ],
+    "keyImages": {
+        "icon": "files/unity-icon.png",
+        "card": "files/unity-card.png",
+        "cover": "files/unity-cover.png",
+        "social_media": "files/unity-social-media.png"
+    },
+    "unitypackages": {
+        "2020.1.0f1": {
+            "source": "files/openapi.unitypackage",
+            "slices": 2,
+            "threads": 2,
+            "alwaysUpload": false,
+            "srps": [
+                "hdrp"
+            ],
+            "dependencies": [
+                "115"
+            ]
+        }
+    },
+    "submission": {
+        "submitMessage": "First submission.",
+        "autoPublish": true,
+        "acceptLatestTerms": true
+    },
+    "packageId": "83139"
+}
