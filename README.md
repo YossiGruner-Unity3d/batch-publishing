@@ -1,5 +1,9 @@
 ## Publishing OpenAPI Scripts
 
+#### Doc
+
+Click here from info[https://confluence.unity3d.com/pages/viewpage.action?pageId=176105065]
+
 #### How to run
 
 1. Install Python 3.7
