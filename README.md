@@ -2,7 +2,7 @@
 
 #### Doc
 
-Click here from info[https://confluence.unity3d.com/pages/viewpage.action?pageId=176105065]
+For more info click [here](https://confluence.unity3d.com/pages/viewpage.action?pageId=176105065)
 
 #### How to run
 
